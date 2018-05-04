@@ -1,1 +1,1 @@
-# looksgood
+# lookgood
